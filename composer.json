@@ -1,0 +1,9 @@
+{
+  "prefer-stable": true,
+  "require": {
+    "calcinai/phpi": "dev-master",
+    "guzzlehttp/guzzle": "^6.2",
+    "monolog/monolog": "^1.21",
+    "rollbar/rollbar": "^0.18.2"
+  }
+}

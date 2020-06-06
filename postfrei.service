@@ -1,0 +1,9 @@
+[Unit]
+Description=Service handler for postfrei
+
+[Service]
+Type=simple
+ExecStart=/home/myuser/postfrei/app.php
+
+[Install]
+WantedBy=multi-user.target
